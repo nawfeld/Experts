@@ -1,0 +1,124 @@
+SuperTradeSystem.ex5
+SuperTradeSystem.mq5
+Advisors/ExpertMACD.ex5
+Advisors/ExpertMACD.mq5
+Advisors/ExpertMAMA.ex5
+Advisors/ExpertMAMA.mq5
+Advisors/ExpertMAPSAR.ex5
+Advisors/ExpertMAPSAR.mq5
+Advisors/ExpertMAPSARSizeOptimized.ex5
+Advisors/ExpertMAPSARSizeOptimized.mq5
+Examples/ChartInChart/ChartInChart.ex5
+Examples/ChartInChart/ChartInChart.mq5
+Examples/Controls/Controls.ex5
+Examples/Controls/Controls.mq5
+Examples/Controls/ControlsDialog.mqh
+Examples/Correlation Matrix 3D/Correlation Matrix 3D.ex5
+Examples/Correlation Matrix 3D/Correlation Matrix 3D.mq5
+Examples/Correlation Matrix 3D/Correlation Matrix 3D.mqproj
+Examples/MACD/MACD Sample.ex5
+Examples/MACD/MACD Sample.mq5
+Examples/Math 3D/Functions.mqh
+Examples/Math 3D/Math 3D.ex5
+Examples/Math 3D/Math 3D.ico
+Examples/Math 3D/Math 3D.mq5
+Examples/Math 3D/Math 3D.mqproj
+Examples/Math 3D/Sets/Chomolungma.set
+Examples/Math 3D/Sets/ClimberDream.set
+Examples/Math 3D/Sets/DoubleScrew.set
+Examples/Math 3D/Sets/Granite.set
+Examples/Math 3D/Sets/Hedgehog.set
+Examples/Math 3D/Sets/Hill.set
+Examples/Math 3D/Sets/Josephine.set
+Examples/Math 3D/Sets/MultyExtremalScrew.set
+Examples/Math 3D/Sets/Screw.set
+Examples/Math 3D/Sets/Sink.set
+Examples/Math 3D/Sets/Skin.set
+Examples/Math 3D/Sets/Trapfall.set
+Examples/Math 3D Morpher/Functions.mqh
+Examples/Math 3D Morpher/Math 3D Morpher.ex5
+Examples/Math 3D Morpher/Math 3D Morpher.mq5
+Examples/Math 3D Morpher/Math 3D Morpher.mqproj
+Examples/Math 3D Morpher/Textures/checker.bmp
+Examples/Moving Average/Moving Average.ex5
+Examples/Moving Average/Moving Average.mq5
+Free Robots/BlackCrows WhiteSoldiers CCI.ex5
+Free Robots/BlackCrows WhiteSoldiers CCI.mq5
+Free Robots/BlackCrows WhiteSoldiers MFI.ex5
+Free Robots/BlackCrows WhiteSoldiers MFI.mq5
+Free Robots/BlackCrows WhiteSoldiers RSI.ex5
+Free Robots/BlackCrows WhiteSoldiers RSI.mq5
+Free Robots/BlackCrows WhiteSoldiers Stoch.ex5
+Free Robots/BlackCrows WhiteSoldiers Stoch.mq5
+Free Robots/BullishBearish Engulfing CCI.ex5
+Free Robots/BullishBearish Engulfing CCI.mq5
+Free Robots/BullishBearish Engulfing MFI.ex5
+Free Robots/BullishBearish Engulfing MFI.mq5
+Free Robots/BullishBearish Engulfing RSI.ex5
+Free Robots/BullishBearish Engulfing RSI.mq5
+Free Robots/BullishBearish Engulfing Stoch.ex5
+Free Robots/BullishBearish Engulfing Stoch.mq5
+Free Robots/BullishBearish Harami CCI.ex5
+Free Robots/BullishBearish Harami CCI.mq5
+Free Robots/BullishBearish Harami MFI.ex5
+Free Robots/BullishBearish Harami MFI.mq5
+Free Robots/BullishBearish Harami RSI.ex5
+Free Robots/BullishBearish Harami RSI.mq5
+Free Robots/BullishBearish Harami Stoch.ex5
+Free Robots/BullishBearish Harami Stoch.mq5
+Free Robots/BullishBearish MeetingLines CCI.ex5
+Free Robots/BullishBearish MeetingLines CCI.mq5
+Free Robots/BullishBearish MeetingLines MFI.ex5
+Free Robots/BullishBearish MeetingLines MFI.mq5
+Free Robots/BullishBearish MeetingLines RSI.ex5
+Free Robots/BullishBearish MeetingLines RSI.mq5
+Free Robots/BullishBearish MeetingLines Stoch.ex5
+Free Robots/BullishBearish MeetingLines Stoch.mq5
+Free Robots/DarkCloud PiercingLine CCI.ex5
+Free Robots/DarkCloud PiercingLine CCI.mq5
+Free Robots/DarkCloud PiercingLine MFI.ex5
+Free Robots/DarkCloud PiercingLine MFI.mq5
+Free Robots/DarkCloud PiercingLine RSI.ex5
+Free Robots/DarkCloud PiercingLine RSI.mq5
+Free Robots/DarkCloud PiercingLine Stoch.ex5
+Free Robots/DarkCloud PiercingLine Stoch.mq5
+Free Robots/HangingMan Hammer CCI.ex5
+Free Robots/HangingMan Hammer CCI.mq5
+Free Robots/HangingMan Hammer MFI.ex5
+Free Robots/HangingMan Hammer MFI.mq5
+Free Robots/HangingMan Hammer RSI.ex5
+Free Robots/HangingMan Hammer RSI.mq5
+Free Robots/HangingMan Hammer Stoch.ex5
+Free Robots/HangingMan Hammer Stoch.mq5
+Free Robots/MorningEvening StarDoji CCI.ex5
+Free Robots/MorningEvening StarDoji CCI.mq5
+Free Robots/MorningEvening StarDoji MFI.ex5
+Free Robots/MorningEvening StarDoji MFI.mq5
+Free Robots/MorningEvening StarDoji RSI.ex5
+Free Robots/MorningEvening StarDoji RSI.mq5
+Free Robots/MorningEvening StarDoji Stoch.ex5
+Free Robots/MorningEvening StarDoji Stoch.mq5
+IchimokuKumo/IchimokuKumoBO.ex5
+IchimokuKumo/IchimokuKumoBO.mq5
+TradeEX/naoufel-afficheSTOCH_plus_v03.8.ex5
+TradeEX/naoufel-afficheSTOCH_plus_v03.8.mq5
+TradeEX/naoufel-afficheSTOCH_plus_v03.9.ex5
+TradeEX/naoufel-afficheSTOCH_plus_v03.9.mq5
+TradeEX/naoufel-afficheSTOCH_plus_v04.0.ex5
+TradeEX/naoufel-afficheSTOCH_plus_v04.0.mq5
+TradeEX/naoufel-afficheSTOCH_plus_v04.1.ex5
+TradeEX/naoufel-afficheSTOCH_plus_v04.1.mq5
+TradeEX/naoufel-crossSTOCH_plus_v03.7.ex5
+TradeEX/naoufel-crossSTOCH_plus_v03.7.mq5
+TradeEX/naoufel-crossSTOCH_plus_v03.8.ex5
+TradeEX/naoufel-crossSTOCH_plus_v03.8.mq5
+TradeEX/naoufel-crossSTOCH_plusun_v03.7.ex5
+TradeEX/naoufel-crossSTOCH_plusun_v03.7.mq5
+TradeEX/naoufel-crossSTOCH_v03.5.ex5
+TradeEX/naoufel-crossSTOCH_v03.5.mq5
+TradeEX/naoufel-crossSTOCH_v03.6.ex5
+TradeEX/naoufel-crossSTOCH_v03.6.mq5
+TradeEX/naoufel-crossSTOCH_v03.7.ex5
+TradeEX/naoufel-crossSTOCH_v03.7.mq5
+TradeEX/naoufel-crossSTOCH_zero_v03.7.ex5
+TradeEX/naoufel-crossSTOCH_zero_v03.7.mq5
